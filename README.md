@@ -1,11 +1,11 @@
 ## 👤 About Me
 
-- 🛡️ Blue Teamer  
-- 🔍 SOC Analyst (Aspiring)  
-- 🧪 Malware Analyst (Student Level)  
-- 🎯 Threat Hunter  
-- 🧠 DFIR Enthusiast  
-- 🧩 CTF Player  
+-  Blue Teamer  
+-  SOC Analyst (Aspiring)  
+-  Malware Analyst (Student Level)  
+-  Threat Hunter  
+-  DFIR Enthusiast  
+
 
 I focus on analyzing real-world cyber threats, investigating incidents, and strengthening defensive security through hands-on labs and projects.
 
@@ -16,9 +16,6 @@ I focus on analyzing real-world cyber threats, investigating incidents, and stre
 [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/users/756058081603092534)
 
 ---
-
-## 💻 Tech Stack
-
 ### 🔐 Cybersecurity & DFIR
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?logo=kali-linux&logoColor=white)
