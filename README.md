@@ -32,13 +32,7 @@ I focus on analyzing real-world cyber threats, investigating incidents, and stre
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
 
----
 
-<h2>📊 GitHub Stats</h2>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Yashodhanpatil123&show_icons=true&theme=github_dark" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashodhanpatil123&layout=compact&theme=github_dark" />
 
 
 ---
