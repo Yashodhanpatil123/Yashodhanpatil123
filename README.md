@@ -34,13 +34,11 @@ I focus on analyzing real-world cyber threats, investigating incidents, and stre
 
 ---
 
-## 📊 GitHub Stats
+<h2>📊 GitHub Stats</h2>
 
+<img src="https://github-readme-stats.vercel.app/api?username=Yashodhanpatil123&show_icons=true&theme=github_dark" />
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yashodhanpatil123&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashodhanpatil123&layout=compact&theme=dark)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashodhanpatil123&layout=compact&theme=github_dark" />
 
 
 ---
@@ -50,15 +48,6 @@ I focus on analyzing real-world cyber threats, investigating incidents, and stre
 - 🟦 **TryHackMe**: Top **4%** globally | 90+ rooms completed
 - 🎓 3-Month Cybersecurity & Digital Forensics Internship
 
----
 
-## 📌 Top Contributed Repositories
-- 🔍 Malware Analysis & Threat Hunting
-- 🧠 DFIR Labs (Network, Disk, Memory)
-- 🛡️ Intrusion Detection System (IDS)
-
----
-
-⚠️ *All work is performed in controlled environments for educational purposes only.*
 
 
