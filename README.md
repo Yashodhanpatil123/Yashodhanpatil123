@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Yashodhan</h1>
 <h3 align="center">Cybersecurity Student | Malware Analysis | DFIR | Threat Hunting</h3>
 
@@ -33,15 +32,6 @@ I enjoy analyzing real-world cyber threats, understanding attacker behavior, and
 - 🟦 **TryHackMe**  
   Top **4%** globally | **90+ rooms** completed
 - 🎯 Completed a **3-Month Cybersecurity & Digital Forensics Internship**
-
----
-
-
-## 🛠 Tools & Technologies
-- **Analysis Tools:** Wireshark, VirusTotal, MalwareBazaar, ANY.RUN, CyberChef  
-- **Forensics:** Autopsy, Volatility 3  
-- **Platforms:** Kali Linux, Windows  
-- **Scripting:** Python (Basic), PowerShell (Basic)
 
 ---
 
