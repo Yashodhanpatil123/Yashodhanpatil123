@@ -1,6 +1,5 @@
 ## Hi there 👋
-
-<!--<h1 align="center">Hi 👋, I'm Yashodhan</h1>
+<h1 align="center">Hi 👋, I'm Yashodhan</h1>
 <h3 align="center">Cybersecurity Student | Malware Analysis | DFIR | Threat Hunting</h3>
 
 ---
@@ -15,7 +14,7 @@ I enjoy analyzing real-world cyber threats, understanding attacker behavior, and
 - 🔍 Threat Hunting & IOC Analysis
 - 🧠 Digital Forensics & Incident Response (DFIR)
 - 🛡️ SOC Operations & Defensive Security
-- 🌐 Network, Disk & Memory Forensics
+- 🌐 Cybersecurity
 - 📊 Threat Intelligence & MITRE ATT&CK
 
 ---
@@ -37,17 +36,6 @@ I enjoy analyzing real-world cyber threats, understanding attacker behavior, and
 
 ---
 
-## 📂 Featured Work
-- 🔍 **Malware Analysis & Threat Hunting**  
-  End-to-end malware investigation with IOC extraction and MITRE ATT&CK mapping  
-
-- 🧠 **DFIR Labs**  
-  Network forensics, disk analysis, memory analysis, and threat intelligence labs  
-
-- 🛡️ **Intrusion Detection System (IDS)**  
-  Academic project focused on identifying suspicious network activity  
-
----
 
 ## 🛠 Tools & Technologies
 - **Analysis Tools:** Wireshark, VirusTotal, MalwareBazaar, ANY.RUN, CyberChef  
@@ -57,13 +45,4 @@ I enjoy analyzing real-world cyber threats, understanding attacker behavior, and
 
 ---
 
-## 📫 Connect With Me
-- 🔗 LinkedIn: https://linkedin.com/in/your-link  
-- 💻 GitHub: https://github.com/your-username  
-
----
-
-⚠️ *All analysis is conducted in isolated and controlled environments for educational purposes only.*
-
-**Yashodhanpatil123/Yashodhanpatil123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
