@@ -1,10 +1,7 @@
 ## 👤 About Me
 
--  Blue Teamer  
 -  SOC Analyst (Aspiring)  
--  Malware Analyst (Student Level)  
--  Threat Hunter  
--  DFIR Enthusiast  
+-  Malware Analyst (Student Level)   
 
 
 I focus on analyzing real-world cyber threats, investigating incidents, and strengthening defensive security through hands-on labs and projects.
