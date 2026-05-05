@@ -30,11 +30,9 @@ I focus on analyzing real-world cyber threats, investigating incidents, and stre
 
 
 ---
-
-## 🏆 Platforms & Achievements
+## 🏆 Platforms 
 - 🥇 **CyberDefenders**: Global Rank **#1,226** | Country Rank **#49**
-- 🟦 **TryHackMe**: Top **4%** globally | 90+ rooms completed
-- 🎓 3-Month Cybersecurity & Digital Forensics Internship
+- 🟦 **TryHackMe**: Top **4%** globally | 100+ rooms completed
 
 
 
