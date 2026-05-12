@@ -7,12 +7,6 @@
 I focus on analyzing real-world cyber threats, investigating incidents, and strengthening defensive security through hands-on labs and projects.
 
 ---
-
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/yashodhan-patil-dfir)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/users/756058081603092534)
-
----
 ### 🔐 Cybersecurity & DFIR
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?logo=kali-linux&logoColor=white)
