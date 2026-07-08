@@ -1,7 +1,7 @@
 ## 👤 About Me
 
 -  SOC Analyst (Aspiring)  
--  Malware Analyst (Student Level)   
+-  Forensic Investigator (Aspiring)   
 
 
 I focus on analyzing real-world cyber threats, investigating incidents, and strengthening defensive security through hands-on labs and projects.
